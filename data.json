@@ -1,0 +1,983 @@
+{
+  "categories": [
+    {
+      "id": "all",
+      "name": "الكل",
+      "icon": "✨",
+      "desc": "كل المحتوى"
+    },
+    {
+      "id": "cat_1790562502567",
+      "name": "ps2",
+      "icon": "🔰",
+      "desc": "العاب ps2 المعدله والغير معدله متوفره"
+    },
+    {
+      "id": "cat_1790708293537",
+      "name": "ps4",
+      "icon": "🔰",
+      "desc": ""
+    },
+    {
+      "id": "cat_1790708677908",
+      "name": "Android",
+      "icon": "📲",
+      "desc": ""
+    },
+    {
+      "id": "cat_1791446157690",
+      "name": "pc games",
+      "icon": "™️",
+      "desc": "جميع محاكيات و العاب pc على اندرويد"
+    },
+    {
+      "id": "cat_1791502831296",
+      "name": "ps1",
+      "icon": "🌐",
+      "desc": ""
+    }
+  ],
+  "items": [
+    {
+      "id": 1794810063194,
+      "name": "Oceanhorn 2",
+      "cat": "cat_1790708677908",
+      "type": "لعبة",
+      "platform": "Android",
+      "version": "V1",
+      "rating": 5,
+      "img": "https://raw.githubusercontent.com/uw1j/gameverse/main/images/img_1794810060169_0fhlxd.jpg",
+      "telegram": "https://modsfire.com/3GvCu9g4Gq0aF90",
+      "desc": "لا يوجد وصف.",
+      "links": [
+        {
+          "icon": "🆓",
+          "label": "Telegram",
+          "url": "https://t.me/O_J08/321"
+        }
+      ]
+    },
+    {
+      "id": 1794639723974,
+      "name": "THE PUNISHER",
+      "cat": "cat_1790708677908",
+      "type": "لعبة",
+      "platform": "Android",
+      "version": "Latest",
+      "rating": 5,
+      "img": "https://raw.githubusercontent.com/uw1j/gameverse/main/images/img_1794639721473_ii7s9r.jpg",
+      "telegram": "https://modsfire.com/nery8UTn2nvRXl7",
+      "desc": "لا يوجد وصف.",
+      "links": [
+        {
+          "icon": "🆓",
+          "label": "Telegram",
+          "url": "https://t.me/O_J08/320"
+        }
+      ]
+    },
+    {
+      "id": 1794471577612,
+      "name": "Ben 10:Vilgax Attack",
+      "cat": "cat_1790562502567",
+      "type": "لعبة",
+      "platform": "PS2",
+      "version": "v1",
+      "rating": 5,
+      "img": "https://raw.githubusercontent.com/uw1j/gameverse/main/images/img_1794471574865_n8gie1.jpg",
+      "telegram": "https://www.mediafire.com/file/2nsx6tuvaxo34uh/Ben+10+Vilgax+Attacks+(arabic).7z/file",
+      "desc": "لا يوجد وصف.",
+      "links": [
+        {
+          "icon": "🆓",
+          "label": "Telegram",
+          "url": "https://t.me/O_J08/319"
+        }
+      ]
+    },
+    {
+      "id": 1794378148389,
+      "name": "RE4 Chris Redfield Mod",
+      "cat": "cat_1790562502567",
+      "type": "لعبة",
+      "platform": "PS2",
+      "version": "v1",
+      "rating": 5,
+      "img": "https://raw.githubusercontent.com/uw1j/gameverse/main/images/img_1794378146039_jbwuck.jpg",
+      "telegram": "https://www.mediafire.com/file/eva2gasgtzxdvpd/RE4+Chris+Redfield+Mod.iso/file",
+      "desc": "ريزدنت ايفل 4\nشخصية كريس ريدفيلد\nاموال غير محدودة\nصحة لا نهائية\nجميع الاسلحة متاحة بي المتجر\nنسخة مهكرة\nصعوبة المحترف مفتوحة\nذخيرة لا نهائية",
+      "links": [
+        {
+          "icon": "🆓",
+          "label": "Telegram",
+          "url": "https://t.me/O_J08/318"
+        }
+      ]
+    },
+    {
+      "id": 1794377977751,
+      "name": "GTA san Resident Evil",
+      "cat": "cat_1790562502567",
+      "type": "لعبة",
+      "platform": "PS2",
+      "version": "v1",
+      "rating": 5,
+      "img": "https://raw.githubusercontent.com/uw1j/gameverse/main/images/img_1794377975293_k6vuk4.jpg",
+      "telegram": "https://www.mediafire.com/file/wqbpacg9u86ch5m/SLUS_209.46.GTA+Resident+Evil.iso/file",
+      "desc": "لا يوجد وصف.",
+      "links": [
+        {
+          "icon": "🆓",
+          "label": "Telegram",
+          "url": "https://t.me/O_J08/317"
+        }
+      ]
+    },
+    {
+      "id": 1794144966476,
+      "name": "Winning Eleven 2012",
+      "cat": "cat_1790562502567",
+      "type": "لعبة",
+      "platform": "PS2",
+      "version": "V1",
+      "rating": 5,
+      "img": "https://raw.githubusercontent.com/uw1j/gameverse/main/images/img_1794144964095_2i6oov.jpg",
+      "telegram": "https://www.mediafire.com/file/2tpduzqvpec2ahd/WE12LE+Saudi.iso/file",
+      "desc": "لا يوجد وصف.",
+      "links": [
+        {
+          "icon": "🆓",
+          "label": "Telegram",
+          "url": "https://t.me/O_J08/316"
+        }
+      ]
+    },
+    {
+      "id": 1793556831506,
+      "name": "Fatal Frame 1 Arabic",
+      "cat": "cat_1790562502567",
+      "type": "لعبة",
+      "platform": "PS2",
+      "version": "v1",
+      "rating": 5,
+      "img": "https://raw.githubusercontent.com/uw1j/gameverse/main/images/img_1793556829141_fxc2u1.jpg",
+      "telegram": "https://www.mediafire.com/file/cxxy41dgt926j1z/Fatal+Frame+1+in+Arabic+by+Arkon.iso/file?action=check",
+      "desc": "لا يوجد وصف.",
+      "links": [
+        {
+          "icon": "🆓",
+          "label": "Telegram",
+          "url": "https://t.me/O_J08/315"
+        }
+      ]
+    },
+    {
+      "id": 1793346557216,
+      "name": "سباق الليل 3 - Arabic  KSA",
+      "cat": "cat_1790562502567",
+      "type": "لعبة",
+      "platform": "PS2",
+      "version": "v1",
+      "rating": 5,
+      "img": "https://raw.githubusercontent.com/uw1j/gameverse/main/images/img_1793346553633_xlawfw.jpg",
+      "telegram": "https://www.mediafire.com/file/0x18z6uhgyoneak/mc3-with+6+cars+&character.iso/file",
+      "desc": "لا يوجد وصف.",
+      "links": [
+        {
+          "icon": "🆓",
+          "label": "Telegram",
+          "url": "https://t.me/O_J08/314"
+        }
+      ]
+    },
+    {
+      "id": 1793293706126,
+      "name": "Berserk Arabic",
+      "cat": "cat_1790562502567",
+      "type": "لعبة",
+      "platform": "PS2",
+      "version": "v1",
+      "rating": 5,
+      "img": "https://raw.githubusercontent.com/uw1j/gameverse/main/images/img_1793293703252_v8iu5b.jpg",
+      "telegram": "https://drive.google.com/file/d/1QlnUpNC76EUKlji6WlDZbkj50k95_6-J/view?usp=drive_link",
+      "desc": "لا يوجد وصف.",
+      "links": [
+        {
+          "icon": "🆓",
+          "label": "Telegram",
+          "url": "https://t.me/O_J08/311"
+        }
+      ]
+    },
+    {
+      "id": 1793293452771,
+      "name": "No one Lives Forever",
+      "cat": "cat_1790562502567",
+      "type": "لعبة",
+      "platform": "PS2",
+      "version": "v1",
+      "rating": 5,
+      "img": "https://raw.githubusercontent.com/uw1j/gameverse/main/images/img_1793293450134_63qv26.jpg",
+      "telegram": "https://www.mediafire.com/file_premium/2mjq11nfccpeepa/No_One_Lives_Forever_%2528USA%2529_-_Arabic_.rar/file",
+      "desc": "لا يوجد وصف.",
+      "links": [
+        {
+          "icon": "🆓",
+          "label": "Telegram",
+          "url": "https://t.me/O_J08/310"
+        }
+      ]
+    },
+    {
+      "id": 1793293367017,
+      "name": "Red Dead Revolver Arabic",
+      "cat": "cat_1790562502567",
+      "type": "لعبة",
+      "platform": "PS2",
+      "version": "v1",
+      "rating": 5,
+      "img": "https://raw.githubusercontent.com/uw1j/gameverse/main/images/img_1793293364524_bqzehc.jpg",
+      "telegram": "https://www.mediafire.com/file_premium/irkv9ga19dax7yp/Red_Dead_Revolver_-_Arabic_Text_Review_v14c.rar/file",
+      "desc": "لا يوجد وصف.",
+      "links": [
+        {
+          "icon": "🆓",
+          "label": "Telegram",
+          "url": "https://t.me/O_J08/309"
+        }
+      ]
+    },
+    {
+      "id": 1793293246223,
+      "name": "Ghost Rider Arabic  ‏",
+      "cat": "cat_1790562502567",
+      "type": "لعبة",
+      "platform": "PS2",
+      "version": "V1",
+      "rating": 5,
+      "img": "https://raw.githubusercontent.com/uw1j/gameverse/main/images/img_1793293243286_ylg769.jpg",
+      "telegram": "https://www.mediafire.com/file/rztw8epcu5vb277/Ghost+Rider+Europe+-+Arabic+02.zip/file",
+      "desc": "لا يوجد وصف.",
+      "links": [
+        {
+          "icon": "🆓",
+          "label": "Telegram",
+          "url": "https://t.me/O_J08/308"
+        }
+      ]
+    },
+    {
+      "id": 1792854687496,
+      "name": "Crash Mind Over ‏Mutant Arabic",
+      "cat": "cat_1790562502567",
+      "type": "لعبة",
+      "platform": "PS2",
+      "version": "V1",
+      "rating": 5,
+      "img": "https://raw.githubusercontent.com/uw1j/gameverse/main/images/img_1792854684931_5i9jcz.jpg",
+      "telegram": "https://www.mediafire.com/file/q4chswbakpufxvi/Crash_Mind_Over_Mutant_AR.iso/file?action=check",
+      "desc": "لا يوجد وصف.",
+      "links": [
+        {
+          "icon": "🆓",
+          "label": "Telegram",
+          "url": "https://t.me/O_J08/306"
+        }
+      ]
+    },
+    {
+      "id": 1792777320275,
+      "name": "call of duty mobile",
+      "cat": "cat_1790708677908",
+      "type": "لعبة",
+      "platform": "Android",
+      "version": "V1",
+      "rating": 5,
+      "img": "https://raw.githubusercontent.com/uw1j/gameverse/main/images/img_1792777317233_3fw0f4.jpg",
+      "telegram": "https://www.mediafire.com/file/i4l4bhzxiju91ez/call_of_%25F0%259F%2594%25A5.zip/file",
+      "desc": "لا يوجد وصف.",
+      "links": [
+        {
+          "icon": "🆓",
+          "label": "Telegram",
+          "url": "https://t.me/O_J08/305"
+        }
+      ]
+    },
+    {
+      "id": 1792777185313,
+      "name": "Counter-Strike Mobile",
+      "cat": "cat_1790708677908",
+      "type": "لعبة",
+      "platform": "Android",
+      "version": "V1",
+      "rating": 5,
+      "img": "https://raw.githubusercontent.com/uw1j/gameverse/main/images/img_1792777181933_j2ijad.jpg",
+      "telegram": "https://www.mediafire.com/file/83asevqqmdz9zyq/CounterFlame.apk/file",
+      "desc": "لا يوجد وصف.",
+      "links": [
+        {
+          "icon": "🆓",
+          "label": "Telegram",
+          "url": "https://t.me/O_J08/304"
+        }
+      ]
+    },
+    {
+      "id": 1792701284653,
+      "name": "black Mobile mod",
+      "cat": "cat_1790708677908",
+      "type": "لعبة",
+      "platform": "Android",
+      "version": "V1",
+      "rating": 5,
+      "img": "https://raw.githubusercontent.com/uw1j/gameverse/main/images/img_1792701281598_ixyo1n.jpg",
+      "telegram": "https://www.mediafire.com/file/bfaw7j43mehm85r/BThemocs.zip/file",
+      "desc": "نسخه تدعم جميع الاجهزه وبدون لاق ومهكره",
+      "links": [
+        {
+          "icon": "🆓",
+          "label": "Telegram",
+          "url": "https://t.me/O_J08/303"
+        }
+      ]
+    },
+    {
+      "id": 1792700921638,
+      "name": "black mod",
+      "cat": "cat_1790562502567",
+      "type": "لعبة",
+      "platform": "PS2",
+      "version": "v MOD",
+      "rating": 5,
+      "img": "https://raw.githubusercontent.com/uw1j/gameverse/main/images/img_1792700918138_k5io9x.jpg",
+      "telegram": "https://www.mediafire.com/file/gqchubpdq46lju1/SLUS_213.76.Black+Hack+Edition+Dublado+IA+PT-BR.iso/file",
+      "desc": "نسخه مهكره",
+      "links": [
+        {
+          "icon": "🆓",
+          "label": "Telegram",
+          "url": "https://t.me/O_J08/302"
+        }
+      ]
+    },
+    {
+      "id": 1792383959939,
+      "name": "Captain Tsubasa J: Get In The Tomorrow",
+      "cat": "cat_1791502831296",
+      "type": "لعبة",
+      "platform": "PS1",
+      "version": "V1",
+      "rating": 5,
+      "img": "https://raw.githubusercontent.com/uw1j/gameverse/main/images/img_1792383957728_ownko1.jpg",
+      "telegram": "https://www.mediafire.com/file/1uc3lmw3h957ftt/CT-J_AR.zip/file",
+      "desc": "نسخه معربه",
+      "links": [
+        {
+          "icon": "🆓",
+          "label": "Telegram",
+          "url": "https://t.me/O_J08/300"
+        }
+      ]
+    },
+    {
+      "id": 1792171743850,
+      "name": "Residentevil 3",
+      "cat": "cat_1791446157690",
+      "type": "لعبة",
+      "platform": "winlator",
+      "version": "v1",
+      "rating": 5,
+      "img": "https://raw.githubusercontent.com/uw1j/gameverse/main/images/img_1792171740505_dy3c4n.jpg",
+      "telegram": "https://gofile.io/d/MGKJHJ",
+      "desc": "تعمل على محاكي winlator-gamehub-bannerhub",
+      "links": [
+        {
+          "icon": "🔗",
+          "label": "Telegram",
+          "url": "https://t.me/O_J08/295"
+        }
+      ]
+    },
+    {
+      "id": 1792086636371,
+      "name": "GTA SanAndreas MOD Anime",
+      "cat": "cat_1790708677908",
+      "type": "لعبة",
+      "platform": "Android",
+      "version": "v2",
+      "rating": 5,
+      "img": "https://raw.githubusercontent.com/uw1j/gameverse/main/images/img_1792086632795_vu3rbj.jpg",
+      "telegram": "https://www.mediafire.com/file/da5fl6ktb0nq6ip/game+gt.zip/file",
+      "desc": "GTA SanAndreas mod Anime\n\nمهكره يرجى مشاهده شرح تثبيت لتجنب المشاكل",
+      "links": [
+        {
+          "icon": "🆓",
+          "label": "Telegram",
+          "url": "https://t.me/O_J08/286?single"
+        }
+      ]
+    },
+    {
+      "id": 1792082678601,
+      "name": "BATMAN ARKHAM ORIGINS",
+      "cat": "cat_1791446157690",
+      "type": "لعبة",
+      "platform": "winlator",
+      "version": "v1",
+      "rating": 5,
+      "img": "https://raw.githubusercontent.com/uw1j/gameverse/main/images/img_1792082674108_xook7o.jpg",
+      "telegram": "https://www.mediafire.com/file/tkd94t6fuatq1y1",
+      "desc": "تشتغل على محاكيات gamehub&winlator$BannerHub ......",
+      "links": [
+        {
+          "icon": "🆓",
+          "label": "Telegram",
+          "url": "https://t.me/O_J08/285"
+        }
+      ]
+    },
+    {
+      "id": 1792082561267,
+      "name": "The Amazing Spider-Man 2",
+      "cat": "cat_1791446157690",
+      "type": "لعبة",
+      "platform": "winlator",
+      "version": "v1",
+      "rating": 5,
+      "img": "https://raw.githubusercontent.com/uw1j/gameverse/main/images/img_1792082534872_gftw8w.jpg",
+      "telegram": "https://datanodes.to/w1qmffukrzhb/The-Amazing-Spider-Man-2-PC-SteamRIP.com.rar",
+      "desc": "تشتغل على محاكيات\n...... gamehub&winlator$BannerHub",
+      "links": [
+        {
+          "icon": "🆓",
+          "label": "Telegram",
+          "url": "https://t.me/O_J08/284"
+        }
+      ]
+    },
+    {
+      "id": 1792082375106,
+      "name": "battlefield bad company 2",
+      "cat": "cat_1791446157690",
+      "type": "لعبة",
+      "platform": "winlator",
+      "version": "v1",
+      "rating": 5,
+      "img": "https://raw.githubusercontent.com/uw1j/gameverse/main/images/img_1792082371543_qqwz3e.jpg",
+      "telegram": "https://pixeldrain.com/u/hk9scCrr",
+      "desc": "تشتغل ع محاكيات gamehub&winlator&BannerHub......",
+      "links": [
+        {
+          "icon": "🆓",
+          "label": "Telegram",
+          "url": "https://t.me/O_J08/283"
+        }
+      ]
+    },
+    {
+      "id": 1791750500096,
+      "name": "BannerHub",
+      "cat": "cat_1791446157690",
+      "type": "محاكي",
+      "platform": "BannerHub",
+      "version": "V1",
+      "rating": 5,
+      "img": "https://raw.githubusercontent.com/uw1j/gameverse/main/images/img_1791750497418_mbqdsp.jpg",
+      "telegram": "https://www.mediafire.com/file/nkd6pqh2nj802vu/BannerHub-v3.NOX.apk/file",
+      "desc": "لمعالجات adreno",
+      "links": [
+        {
+          "icon": "🆓",
+          "label": "Telegram",
+          "url": "https://t.me/O_J08/280"
+        }
+      ]
+    },
+    {
+      "id": 1791713153528,
+      "name": "The Simbason Collection 4 in 1",
+      "cat": "cat_1790562502567",
+      "type": "لعبة",
+      "platform": "PS2",
+      "version": "v1",
+      "rating": 5,
+      "img": "https://raw.githubusercontent.com/uw1j/gameverse/main/images/img_1791713150635_akx3m3.jpg",
+      "telegram": "https://www.mediafire.com/file/3f8nw57rp08ucxz/THE_SIMPSONS_COLLECTION.rar/file",
+      "desc": "باسورد في تلغرام",
+      "links": [
+        {
+          "icon": "🆓",
+          "label": "Telegram",
+          "url": "https://t.me/O_J08/279"
+        }
+      ]
+    },
+    {
+      "id": 1791637294801,
+      "name": "KillZone Hack نسخة مهكرة",
+      "cat": "cat_1790562502567",
+      "type": "لعبة",
+      "platform": "PS2",
+      "version": "v1",
+      "rating": 5,
+      "img": "https://raw.githubusercontent.com/uw1j/gameverse/main/images/img_1791637292426_6vdqur.jpg",
+      "telegram": "https://www.mediafire.com/file/lmvozkj4zaupqpi/KFllzRonEeERdiBtiTon.rar/file",
+      "desc": "باسورد في قناة تلغرام",
+      "links": [
+        {
+          "icon": "🆓",
+          "label": "Telegram",
+          "url": "https://t.me/O_J08/278"
+        }
+      ]
+    },
+    {
+      "id": 1791502935307,
+      "name": "Twisted metal 5 in 1",
+      "cat": "cat_1791502831296",
+      "type": "محاكي",
+      "platform": "PS1",
+      "version": "v1",
+      "rating": 5,
+      "img": "https://raw.githubusercontent.com/uw1j/gameverse/main/images/img_1791502932148_9lcaxf.jpg",
+      "telegram": "https://www.mediafire.com/file/nglvyon0ute9p0h/Twisted_Metal+5+IN+1.7z/file",
+      "desc": "تحتوي على 5 اجزاء كامله",
+      "links": [
+        {
+          "icon": "🆓",
+          "label": "Telegram",
+          "url": "https://t.me/O_J08/276"
+        }
+      ]
+    },
+    {
+      "id": 1791446408917,
+      "name": "winlator mali",
+      "cat": "cat_1791446157690",
+      "type": "محاكي",
+      "platform": "Android",
+      "version": "v1",
+      "rating": 5,
+      "img": "https://raw.githubusercontent.com/uw1j/gameverse/main/images/img_1791446405396_i9d6z1.jpg",
+      "telegram": "https://www.mediafire.com/file/vei1qzktte58oio/Winlator_Mali_V1_NOX_.apk/file",
+      "desc": "محاكي winlator  لمعالجات mali يستخدم لتشغيل العاب pc  على Android",
+      "links": [
+        {
+          "icon": "🆓",
+          "label": "Telegram",
+          "url": "https://t.me/O_J08/274"
+        }
+      ]
+    },
+    {
+      "id": 1791446258994,
+      "name": "GTA V 17GB",
+      "cat": "cat_1791446157690",
+      "type": "لعبة",
+      "platform": "winlator",
+      "version": "v1",
+      "rating": 5,
+      "img": "https://raw.githubusercontent.com/uw1j/gameverse/main/images/img_1791446255679_yt9d2x.jpg",
+      "telegram": "https://buzzheavier.com/rdrhaokp6rhm",
+      "desc": "نسخه GTA V بحجم 17 GB تعمل على محاكي winlator-gamehub",
+      "links": [
+        {
+          "icon": "🆓",
+          "label": "Telegram",
+          "url": "https://t.me/O_J08/275"
+        }
+      ]
+    },
+    {
+      "id": 1791243942364,
+      "name": "Ben 10 Protector of the Earth",
+      "cat": "cat_1790562502567",
+      "type": "لعبة",
+      "platform": "PS2",
+      "version": "V1",
+      "rating": 5,
+      "img": "https://raw.githubusercontent.com/uw1j/gameverse/main/images/img_1791243939095_q6s05u.jpg",
+      "telegram": "https://t.me/O_J08/273",
+      "desc": "Ben 10 Protector of the Earth مهكره",
+      "links": [
+        {
+          "icon": "🆓",
+          "label": "Telegram",
+          "url": "https://t.me/O_J08"
+        }
+      ]
+    },
+    {
+      "id": 1791243778921,
+      "name": "سوبر نينتندو",
+      "cat": "cat_1790562502567",
+      "type": "لعبة",
+      "platform": "PS2",
+      "version": "V1",
+      "rating": 5,
+      "img": "https://raw.githubusercontent.com/uw1j/gameverse/main/images/img_1791243775849_tu4uaw.jpg",
+      "telegram": "https://t.me/O_J08/271",
+      "desc": "العاب سوبر نينتندو",
+      "links": [
+        {
+          "icon": "🆓",
+          "label": "Telegram",
+          "url": "https://t.me/O_J08"
+        }
+      ]
+    },
+    {
+      "id": 1790965728247,
+      "name": "GTA SanAndreas زير سالم",
+      "cat": "cat_1790562502567",
+      "type": "لعبة",
+      "platform": "PS2",
+      "version": "v1",
+      "rating": 5,
+      "img": "https://raw.githubusercontent.com/uw1j/gameverse/main/images/img_1790965722919_yuqjiw.jpg",
+      "telegram": "https://www.mediafire.com/file/k9p666viq522rox/GTA_Alzeir_Salem.rar/file",
+      "desc": "نسخه معدله مود زير سالم كلمة مرور في تلغرام",
+      "links": [
+        {
+          "icon": "🆓",
+          "label": "Telegram",
+          "url": "https://t.me/O_J08/269"
+        }
+      ]
+    },
+    {
+      "id": 1790963277203,
+      "name": "black",
+      "cat": "cat_1790562502567",
+      "type": "لعبة",
+      "platform": "PS2",
+      "version": "v1",
+      "rating": 5,
+      "img": "https://raw.githubusercontent.com/uw1j/gameverse/main/images/img_1790963274844_h4tgin.jpg",
+      "telegram": "https://www.mediafire.com/file/8v24e47i4zk70xf/Black+by+ArabTro.iso/file",
+      "desc": "اللعبة مترجمة مشاهد باللغة العربية",
+      "links": [
+        {
+          "icon": "🆓",
+          "label": "Telegram",
+          "url": "https://t.me/O_J08/268"
+        }
+      ]
+    },
+    {
+      "id": 1790962327811,
+      "name": "GTA SanAndreas Netflix",
+      "cat": "cat_1790708677908",
+      "type": "لعبة",
+      "platform": "Android",
+      "version": "v1",
+      "rating": 5,
+      "img": "https://raw.githubusercontent.com/uw1j/gameverse/main/images/img_1790962324253_27n22m.jpg",
+      "telegram": "https://dl.apkvision.org/gta-san-andreas-definitive/GTA-SA-Definitive-60-FPS-v1.87.0-mod-apkvision.apks",
+      "desc": "نسخة محسنة حجمه 7G📍\n\nبدون محاكي APK✅\n\nالنسخة قابله الإضافة المودات ✅\n\nانتبه ‼️🔈 \n\nاذا طلب منك حساب روكستار دوس على Skip والعب\n\n             👇 |60FPS👇\n\nسناب دراكون 865✅ \n\nسناب دراكون 7.1✅  \n\nدايمنستي 1100✅   \n\nدايمنستي 7400✅",
+      "links": [
+        {
+          "icon": "🆓",
+          "label": "Telegram",
+          "url": "https://t.me/O_J08/267"
+        }
+      ]
+    },
+    {
+      "id": 1790957680903,
+      "name": "Resident Evil 4 Verdugo Mod",
+      "cat": "cat_1790562502567",
+      "type": "لعبة",
+      "platform": "PS2",
+      "version": "Latest",
+      "rating": 5,
+      "img": "https://raw.githubusercontent.com/uw1j/gameverse/main/images/img_1790957678244_x7z6kr.jpg",
+      "telegram": "https://www.mediafire.com/file/rtay8nzf6gy438r/MODVerdugo.rar/file",
+      "desc": "لا يوجد وصف.",
+      "links": [
+        {
+          "icon": "🆓",
+          "label": "Telegram",
+          "url": "https://t.me/O_J08/266"
+        }
+      ]
+    },
+    {
+      "id": 1790945112044,
+      "name": "Crash Nitro Kart Arabic",
+      "cat": "cat_1790562502567",
+      "type": "لعبة",
+      "platform": "PS2",
+      "version": "v1",
+      "rating": 5,
+      "img": "https://raw.githubusercontent.com/uw1j/gameverse/main/images/img_1790945108953_3ru4mv.jpg",
+      "telegram": "https://www.mediafire.com/file/pqpl7mf9ko94hmw/CRASH+NK+AR.iso/file",
+      "desc": "Crash Nitro Kart Arabic\nنسخه عربيه",
+      "links": [
+        {
+          "icon": "🆓",
+          "label": "Telegram",
+          "url": "https://t.me/O_J08/265"
+        }
+      ]
+    },
+    {
+      "id": 1790710231900,
+      "name": "Call of Duty:Black Ops mobile",
+      "cat": "cat_1790708677908",
+      "type": "لعبة",
+      "platform": "Android",
+      "version": "V hack",
+      "rating": 5,
+      "img": "https://raw.githubusercontent.com/uw1j/gameverse/main/images/img_1790710229185_lge42c.jpg",
+      "telegram": "O_J08/253",
+      "desc": "📱 نسخة Android: \n\n⚠️ متطلبات التشغيل:\nتعمل اللعبة على أجهزة Android 11 وأقل فقط\n❌ لا تدعم Android 12 والإصدارات الأحدث"
+    },
+    {
+      "id": 1790708499348,
+      "name": "Call Of Duty: World War II",
+      "cat": "cat_1790708293537",
+      "type": "لعبة",
+      "platform": "ps4",
+      "version": "v1",
+      "rating": 5,
+      "img": "https://raw.githubusercontent.com/uw1j/gameverse/main/images/img_1790708496309_aujjx1.jpg",
+      "telegram": "O_J08/183",
+      "desc": "Call Of Duty: World War II\nنسخه اصليه صيغه pkg"
+    },
+    {
+      "id": 1790708372779,
+      "name": "god of war 2018",
+      "cat": "cat_1790708293537",
+      "type": "لعبة",
+      "platform": "ps4",
+      "version": "v1",
+      "rating": 5,
+      "img": "https://raw.githubusercontent.com/uw1j/gameverse/main/images/img_1790708370086_elm6by.jpg",
+      "telegram": "O_J08/196",
+      "desc": "god of war 2018 نسخه اصليه صيغه pkg"
+    },
+    {
+      "id": 1790620772943,
+      "name": "GTA Project Kaizo v2.2",
+      "cat": "cat_1790562502567",
+      "type": "لعبة",
+      "platform": "PS2",
+      "version": "V1",
+      "rating": 5,
+      "img": "",
+      "telegram": "O_J08/250",
+      "desc": "نسخه معدله من GTA  \n\nمميزات 🔥🔥\n\nتقدم تجربة جديدة كليًا على البلايستيشن 2،  التلقائي, يتميز هذا المود بإمكانية اللعب بشخصيتين في نفس الوقت داخل القصة، مع نظام نقاط إعادة ظهور مخصص.\n\nقائمة غش مطورة، دعم كامل للمهام المعدلة لتناسب اللعب الجماعي، وإمكانية قيادة مركبات بشكل مستقل لكل لاعب. كما أن صحة ودروع اللاعب الثاني تبقى محفوظة حتى بعد إعادة الظهور، مما يجعل التجربة أكثر استقرارًا ومتعة, متعدد اللغات انجليزي اسباني الخ..."
+    },
+    {
+      "id": 1790620672133,
+      "name": "GTA Liberty City Stories",
+      "cat": "cat_1790562502567",
+      "type": "لعبة",
+      "platform": "PS2",
+      "version": "v1",
+      "rating": 5,
+      "img": "https://raw.githubusercontent.com/uw1j/gameverse/main/images/img_1790620669069_slpw2f.jpg",
+      "telegram": "O_J08/248",
+      "desc": "GTA Liberty City Stories نسخه اصلية"
+    },
+    {
+      "id": 1790620542182,
+      "name": "GTA Sa",
+      "cat": "cat_1790562502567",
+      "type": "لعبة",
+      "platform": "PS2",
+      "version": "V end",
+      "rating": 5,
+      "img": "https://raw.githubusercontent.com/uw1j/gameverse/main/images/img_1790620539643_jnfbyp.jpg",
+      "telegram": "O_J08/246",
+      "desc": "GTA SanAndreas تم تصحيح مشاكل وكليجات وهذه نسخه نهائيه بدون مودات"
+    },
+    {
+      "id": 1790620401414,
+      "name": "GTA V PS2",
+      "cat": "cat_1790562502567",
+      "type": "لعبة",
+      "platform": "PS2",
+      "version": "v5",
+      "rating": 5,
+      "img": "",
+      "telegram": "O_J08/244",
+      "desc": "GTA SanAndreas نسخه معدله ك طابع و شكل  و شخصيات مشابه لنسخه GTA V"
+    },
+    {
+      "id": 1790620271751,
+      "name": "GTA Snow Mod",
+      "cat": "cat_1790562502567",
+      "type": "لعبة",
+      "platform": "PS2",
+      "version": "v3",
+      "rating": 5,
+      "img": "https://raw.githubusercontent.com/uw1j/gameverse/main/images/img_1790620269007_gmcymp.jpg",
+      "telegram": "O_J08/241",
+      "desc": "GTA Snow  نسخه معدله طور ثلجي بالكامل"
+    },
+    {
+      "id": 1790609097440,
+      "name": "GTA Spider-Man No Way Home",
+      "cat": "cat_1790562502567",
+      "type": "لعبة",
+      "platform": "ps2",
+      "version": "v2",
+      "rating": 5,
+      "img": "https://raw.githubusercontent.com/uw1j/gameverse/main/images/img_1790609094214_goubkg.jpg",
+      "telegram": "O_J08/238",
+      "desc": "GTA Spider-Man  نسخه معدله\n\n✨لا يحتوي على قائمة الغش\n\n🧩ما الذي أُضيف إلى اللعبة؟\n\n البدلات الجديدة (السكنات):\n\nتوم هولاند (Tom Holland)\n\nأندرو غارفيلد (Andrew Garfield)\n\nتوبي ماغواير (Tobey Maguire)\n\nدكتور أوكتوبوس (Doctor Octopus)\n\nالغوبلن الأخضر (Duende Verde)\n\nرجل الرمال (Sandman)\n\nالسحلية (Lizard)\n\nديرديفل (Demolidor)\n\nدكتور سترينج (Doctor Strange)\n\nفينوم (Venom)\n\n🕹طريقة التحكم:\n\nلإستخدام الخيوط والحركة في الخريطة، اضغط R2.\n\nللتسلق على الجدران، اضغط مع الاستمرار على المربع.\n\nلتغيير الشخصية، استخدم أيقونة الملابس على الخريطة."
+    },
+    {
+      "id": 1790608849105,
+      "name": "GTA Vice City",
+      "cat": "cat_1790562502567",
+      "type": "لعبة",
+      "platform": "PS2",
+      "version": "v4",
+      "rating": 5,
+      "img": "https://raw.githubusercontent.com/uw1j/gameverse/main/images/img_1790608846135_2mh6rg.jpg",
+      "telegram": "O_J08/236",
+      "desc": "GTA Vice City نسخه معدله تحتوي على مود جرافيك عالي ومحسنه و موسيقى جديده على طراز القديم1980"
+    },
+    {
+      "id": 1790608686592,
+      "name": "GTA SanAndreas",
+      "cat": "cat_1790562502567",
+      "type": "لعبة",
+      "platform": "PS2",
+      "version": "v1",
+      "rating": 5,
+      "img": "https://raw.githubusercontent.com/uw1j/gameverse/main/images/img_1790608683539_u64e5t.jpg",
+      "telegram": "O_J08/234",
+      "desc": "GTA SanAndreas نسخه الاصليه غير معدله"
+    },
+    {
+      "id": 1790608611042,
+      "name": "GTA IRAN",
+      "cat": "cat_1790562502567",
+      "type": "لعبة",
+      "platform": "PS2",
+      "version": "v1",
+      "rating": 5,
+      "img": "https://raw.githubusercontent.com/uw1j/gameverse/main/images/img_1790608607994_bh2ni3.jpg",
+      "telegram": "O_J08/231",
+      "desc": "GTA IRAN نسخه معدله خاصه بدوله الايران"
+    },
+    {
+      "id": 1790564118227,
+      "name": "god of war 1 Original",
+      "cat": "cat_1790562502567",
+      "type": "لعبة",
+      "platform": "ps2",
+      "version": "v1",
+      "rating": 5,
+      "img": "",
+      "telegram": "O_J08/211",
+      "desc": "god of war 1 الاصليه تعمل على جميع محاكيات ps2"
+    },
+    {
+      "id": 1790562649460,
+      "name": "god of war 2 كريسماس",
+      "cat": "cat_1790562502567",
+      "type": "لعبة",
+      "platform": "ps2",
+      "version": "V1",
+      "rating": 4.9,
+      "img": "",
+      "telegram": "O_J08/216",
+      "desc": "نسخه معدله طور الكريسماس شغاله ع جميع محاكيات ps2 على اندرويد و ايفون و كمبيوتر"
+    },
+    {
+      "id": 101,
+      "name": "محاكي ps2",
+      "cat": "cat_1790562502567",
+      "type": "محاكي",
+      "platform": "PS2",
+      "version": "v1",
+      "img": "",
+      "telegram": "O_J08/229",
+      "desc": "محاكي PlayStation 2 لتشغيل الألعاب على الأجهزة الأندرويد.",
+      "rating": 5
+    },
+    {
+      "id": 102,
+      "name": "DuckStation",
+      "cat": "all",
+      "type": "محاكي",
+      "platform": "PS1",
+      "version": "Latest",
+      "img": "",
+      "telegram": "o_j07",
+      "desc": "محاكي حديث لتشغيل ألعاب PlayStation 1.",
+      "rating": 5
+    },
+    {
+      "id": 103,
+      "name": "PPSSPP",
+      "cat": "all",
+      "type": "محاكي",
+      "platform": "PSP",
+      "version": "Latest",
+      "img": "",
+      "telegram": "o_j07",
+      "desc": "محاكي PSP متوفر لعدة أنظمة وأجهزة.",
+      "rating": 5
+    },
+    {
+      "id": 104,
+      "name": "PC Gaming",
+      "cat": "all",
+      "type": "ألعاب",
+      "platform": "Windows",
+      "version": "—",
+      "img": "",
+      "telegram": "o_j07",
+      "desc": "قسم ألعاب الكمبيوتر والملفات المتعلقة بها.",
+      "rating": 4
+    }
+  ],
+  "products": [
+    {
+      "id": 1790564560692,
+      "name": "كورسات تداول على جميع منصات",
+      "price": 25000,
+      "currency": "IQD",
+      "telegram": "https://t.me/o_j07",
+      "img": "https://raw.githubusercontent.com/uw1j/gameverse/main/images/img_1790564555637_8fhy8n.jpg",
+      "desc": "📊🔥 فرصتك تبدي بعالم التداول من الصفر للاحتراف! 🔥📊\nاذا تحلم تتعلم التداول بطريقة صحيحة وبخطوات واضحة 💸\nهذا الكورس راح يفيدك سواء مبتدئ لو عندك خبرة بسيطة 👌\n🎓 كورس تداول شامل يتضمن:\n✔️ شرح أساسيات التداول\n✔️ إدارة رأس المال\n✔️ استراتيجيات دخول وخروج\n✔️ تجنب الأخطاء الشائعة\n✔️ تطبيق عملي خطوة بخطوة",
+      "rating": 5,
+      "links": []
+    },
+    {
+      "id": 201,
+      "name": "تصميم واجهة موقع",
+      "price": 25000,
+      "currency": "IQD",
+      "img": "",
+      "telegram": "https://t.me/o_j07",
+      "desc": "تصميم واجهة احترافية قابلة للتخصيص.",
+      "rating": 5,
+      "links": []
+    },
+    {
+      "id": 202,
+      "name": "بوت تيليغرام داتا بيس العراق",
+      "price": 5000,
+      "currency": "IQD",
+      "img": "https://raw.githubusercontent.com/uw1j/gameverse/main/images/img_1790563864142_ckv3ma.jpg",
+      "telegram": "https://t.me/o_j07",
+      "desc": "بوت قاعدة بيانات العراق جميع محافظات بأسمك وانت المالك",
+      "rating": 5,
+      "links": []
+    }
+  ],
+  "settings": {
+    "siteName": "GameVerse X",
+    "ownerName": "7MODY",
+    "telegram": "o_j07",
+    "email": ""
+  }
+}
