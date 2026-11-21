@@ -941,6 +941,17 @@
   ],
   "products": [
     {
+      "id": 1795248787610,
+      "name": "دبة الماء",
+      "price": 15,
+      "currency": "IQD",
+      "rating": 5,
+      "telegram": "https://t.me/o_j07",
+      "img": "https://raw.githubusercontent.com/uw1c/NEXORA/main/images/img_1795248784850_kxhg40.jpg",
+      "desc": "منتج رقمي",
+      "links": []
+    },
+    {
       "id": 1790564560692,
       "name": "كورسات تداول على جميع منصات",
       "price": 25000,
