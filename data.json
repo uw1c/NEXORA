@@ -39,6 +39,25 @@
   ],
   "items": [
     {
+      "id": 1795256082658,
+      "name": "GENERALS ZERO HOUR",
+      "cat": "cat_1790708677908",
+      "type": "لعبة",
+      "platform": "Android",
+      "version": "v1",
+      "rating": 5,
+      "img": "https://raw.githubusercontent.com/uw1c/NEXORA/main/images/img_1795256080020_84mcfh.jpg",
+      "telegram": "https://modsfire.com/92AnZAx5x1v386g",
+      "desc": "لا يوجد وصف.",
+      "links": [
+        {
+          "icon": "🆓",
+          "label": "Telegram",
+          "url": "https://t.me/O_J08/324"
+        }
+      ]
+    },
+    {
       "id": 1794810063194,
       "name": "Oceanhorn 2",
       "cat": "cat_1790708677908",
